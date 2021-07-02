@@ -1,0 +1,57 @@
+/*
+  Name: ZhuoRui Gao
+  Date: 29/06/2021
+  INSERT YOUR SECTION/TA NAME
+
+  WRITE A 2-3 SENTENCE FILE DESCRIPTION HERE
+*/
+
+body {
+  background-image: linear-gradient(rgba(227, 228, 163, 0.329), rgba(229, 231, 112, 0.61));
+  font-family: 'Roboto', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+header {
+  font-size: x-large;
+  text-align: center;
+  border: 1px groove black;
+  padding: auto;
+  background: rgba(230, 139, 2, 0.329);
+  background-clip: border-box;
+}
+
+img {
+  height: 300px;
+  width: 375px;
+  margin-right: 20px;
+}
+
+.dogsview {
+  font-size: larger;
+  font-family: "Papyrus", fantasy;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+.dogpic {
+  height: 500px;
+  width: 500px;
+}
+
+#dogpichoriz {
+  height: 400px;
+  width: 800px;
+}
+
+p, footer {
+  font-family: "Andale Mono", monospace;
+}
+
+header > strong {
+  font-family: "Monaco", monospace;
+}
